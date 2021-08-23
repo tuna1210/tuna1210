@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tuna1210)](https://solved.ac/tuna1210)
 
 <!--
 **tuna1210/tuna1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
