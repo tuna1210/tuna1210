@@ -8,7 +8,7 @@
 ![mazandi](http://mazandi.herokuapp.com/api?handle=tuna1210&theme=warm)
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tuna1210)](https://solved.ac/tuna1210)
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tuna1210)](https://solved.ac/tuna1210) -->
 
 
 <!--
