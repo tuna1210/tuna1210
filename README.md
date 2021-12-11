@@ -12,7 +12,9 @@
 
 <div align=center>
   
-  ![](https://github-profile-trophy.vercel.app/?username=tuna1210&theme=onedark&row=2&column=3&margin-w=3&margin-h=3&title=Commit,Followers,Repositories) 
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=0:83c28d,40:3c7a74,100:51a795&height=150&fontAlign=70&fontAlignY=34&section=header&text=Dongwon%20Jeong&fontSize=45&desc=&rotate=10&animation=fadeIn)
+
+<!--   ![](https://github-profile-trophy.vercel.app/?username=tuna1210&theme=onedark&row=2&column=3&margin-w=3&margin-h=3&title=Commit,Followers,Repositories)  -->
 
   ![BOJ badge](https://boj-badge.herokuapp.com/?id=tuna1210&label=BOJ&nbsp;Rank&query=rank+b&color=%234cabab)
   ![BOJ badge](https://boj-badge.herokuapp.com/?id=tuna1210&label=Streak&query=max_streak&color=%234cabab)
