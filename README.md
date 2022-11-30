@@ -9,16 +9,17 @@
   ## Tech Skills
   ### Language
   💪
-  ![CPP](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+  ![CPP](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![CSHARP](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white)
   ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
      🌱
   ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
 
   ### Library
+  💪
+  ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)
   🌱
   ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)
-  ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)
   ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=Webgl&logoColor=white)
   
   ### Programs
