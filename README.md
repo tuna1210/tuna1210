@@ -9,10 +9,10 @@
   ## Tech Skills
   ### Language
   💪
-  ![CPP](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![CSHARP](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white)
   ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-     🌱
+  ![CSHARP](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white)
+  ![CPP](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  🌱
   ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
 
   ### Library
