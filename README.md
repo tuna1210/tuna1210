@@ -1,11 +1,5 @@
 <div align=center>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=90)
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1200&center=true&color=BBBBBB&multiline=true&repeat=false&width=1000&height=100&lines=Hi%2C+I'm+dongwon.+%F0%9F%91%8B;I'm+currently+working+in+Visual+Computing+Lab,+JBNU.;I'm+interested+in+3D+Vision%2C+AR+Technologies.+;And...;)](https://git.io/typing-svg)
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3100&pause=1650&color=C2C2C2&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=200&lines=++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++;++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++;++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++;+;I+received+MSc+degree+from+Dept.+of+Computer+Science+And+Artificial+Intelligence.;I'm+currently+pursuing+Ph.D.+course+at+the+Jeonbuk+Nat'l+University.;My+current+research+interests+are+3D+Gaussian+Splatting.)](https://git.io/typing-svg)
-  
   ## Tech Skills
   ### Language
   💪
