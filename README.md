@@ -1,5 +1,8 @@
 <div align=center>
 
+![firefly](https://github.com/user-attachments/assets/7f1aadef-09a1-471f-b786-5ff05613fd2b)
+
+
   ## Tech Skills
   ### Language
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
